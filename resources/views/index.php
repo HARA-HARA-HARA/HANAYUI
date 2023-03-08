@@ -7,9 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>gitにpushするためのサンプル文です　10時39分時点</h1>
-
-
-    
+    <h2>gitにpushするためのサンプル文です 12時25分時点</h2>
 </body>
 </html>
